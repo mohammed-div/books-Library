@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.exe
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.xml
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.pdb
